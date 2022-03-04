@@ -3,8 +3,7 @@
 This project aims to provide an independent news mirror for everyone. Not everyone knows how to install a VPN server
 to access news websites and as some news websites are blocked in certain areas in the world. By spinning up this
 application on as many machines as possible, the more we can unite and see the full picture of what news outlets
-are publishing and draw independent conclusions. We should not create a central place on which we collect all servers 
-which are running this application as this will make it easy for countries to ban the news mirror application.
+are publishing and draw independent conclusions.
 
 Please help our mission to share the news of the world with everyone!
 
