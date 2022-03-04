@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>News Mirror</title>
+    </head>
+<body>
+<h1>News Mirror</h1>
+
+<i>Worldwide news for everyone.</i>
+
+{% for source in sources.keys() %}
+    <h2>{{ source }}</h2>
+
+    <ul>
+        {% for key, (name, url) in sources[source].items() %}
+            <li><a href="/?source={{key}}">{{ name }}</a></li>
+        {% endfor %}
+    </ul>
+{% endfor %}
+</body>
+</html>
