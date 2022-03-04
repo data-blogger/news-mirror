@@ -16,7 +16,7 @@ sources = {
     },
     "News by Russia": {
         "sputnik": ("Sputnik", "https://sputniknews.com/"),
-        "tass": ("TASS", "https://sputniknews.com/")
+        "tass": ("TASS", "https://tass.com/")
     }
 }
 
